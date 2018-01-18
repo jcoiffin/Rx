@@ -1,0 +1,6 @@
+C:\ondrivems\OneDrive - Microsoft\Visual Studio 2017\Projects\Rx\x64\Release\RdotnetCall.dll
+C:\ondrivems\OneDrive - Microsoft\Visual Studio 2017\Projects\Rx\x64\Release\RdotnetCall.pdb
+C:\ondrivems\OneDrive - Microsoft\Visual Studio 2017\Projects\Rx\RdotnetCall\obj\Release\RdotnetCall.csproj.CoreCompileInputs.cache
+C:\ondrivems\OneDrive - Microsoft\Visual Studio 2017\Projects\Rx\RdotnetCall\obj\Release\RdotnetCall.dll
+C:\ondrivems\OneDrive - Microsoft\Visual Studio 2017\Projects\Rx\RdotnetCall\obj\Release\RdotnetCall.pdb
+C:\ondrivems\OneDrive - Microsoft\Visual Studio 2017\Projects\Rx\RdotnetCall\obj\Release\RdotnetCall.csprojResolveAssemblyReference.cache

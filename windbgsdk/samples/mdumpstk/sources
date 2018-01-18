@@ -1,0 +1,33 @@
+!IF 0
+
+Copyright (C) Microsoft Corporation, 2005.
+
+!ENDIF
+
+TARGETNAME=mdumpstk
+TARGETTYPE=PROGRAM
+
+_NT_TARGET_VERSION=$(_NT_TARGET_VERSION_WIN7)
+
+URT_VER=2.0
+MANAGED_CODE=1
+
+ASSEMBLY_IDENTITY_PUBLIC_KEY_NAME=none
+
+!if "$(DBGSDK_REF_PATH)" == ""
+DBGSDK_REF_PATH=$(SDKTOOLS_REF_PATH)
+!endif
+
+SOURCES=\
+	DumpStkSample.cs		
+
+REFERENCES=\
+	$(CLR_REF_PATH)\System.metadata_dll; \
+	$(DBGSDK_REF_PATH)\mdbgeng.metadata_dll
+
+UMTYPE=console
+
+PASS0_BINPLACE = \
+                 -:DEST $(DBG_PRI_LAYOUT)\sdk\samples\mdumpstk *.cs \
+                 -:DEST $(DBG_PRI_LAYOUT)\sdk\samples\mdumpstk makefile \
+                 -:DEST $(DBG_PRI_LAYOUT)\sdk\samples\mdumpstk sources \

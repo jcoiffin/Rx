@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  dbgexts.cpp
+  outputcallbacks.cpp
+  Rx.cpp
+  dllmain.cpp
+     Creating library C:\ondrivems\OneDrive - Microsoft\Visual Studio 2017\Projects\Rx\x64\Release\Rx.lib and object C:\ondrivems\OneDrive - Microsoft\Visual Studio 2017\Projects\Rx\x64\Release\Rx.exp
+  Generating code
+  All 92 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Rx.vcxproj -> C:\ondrivems\OneDrive - Microsoft\Visual Studio 2017\Projects\Rx\x64\Release\Rx.dll

@@ -1,0 +1,9 @@
+EXPORTS
+	Help
+	HELP
+	help
+	r
+	R
+	DebugExtensionNotify
+	DebugExtensionInitialize
+	DebugExtensionUninitialize

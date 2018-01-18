@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+  RManaged.cpp
+  stdafx.cpp
+  Generating Code...
+     Creating library C:\Users\Jerome\Documents\Visual Studio 2017\Projects\R\x64\Release\RManaged.lib and object C:\Users\Jerome\Documents\Visual Studio 2017\Projects\R\x64\Release\RManaged.exp
+  Generating code
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RManaged.vcxproj -> C:\Users\Jerome\Documents\Visual Studio 2017\Projects\R\x64\Release\RManaged.dll
