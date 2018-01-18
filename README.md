@@ -7,10 +7,10 @@ This can be useful to clean windbg ouputs and get some statistics.
 # Install current release of the R extension for windbg
 
 R needs to be installed on the machine in order to use it from windbg.  
-You can download and install R from  https://cran.r-project.org/mirrors.html.  
-It works as well with Microsoft R Client https://docs.microsoft.com/en-us/machine-learning-server/r-client/what-is-microsoft-r-client which adds additianal commands in R.
+You can download and install R from  [CRAN](https://cran.r-project.org/mirrors.html).  
+It works as well with [Microsoft R Client](https://docs.microsoft.com/en-us/machine-learning-server/r-client/what-is-microsoft-r-client) which adds additianal commands in R.
 
-Unzip the current release from https://github.com/jcoiffin/Rx/releases/latest.  
+Unzip the [current release ](https://github.com/jcoiffin/Rx/releases/tag/v1).  
 In Windbg , load the extension using :  
 .load C:\Temp\rxunzipped\rx.dll
 
